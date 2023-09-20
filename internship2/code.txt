@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+ padding:250px;
+text-align:center;
+}
+</style>
+<link rel="stylesheet" href="intern1.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</head>
+<body>
+<h1 style="color:darkgreen;font-style:italic;font-family:arialblack"><b>SPICY Green Sauce</b></h1><img src="green.jpg" width="700px" class="center"><p style="font-size:25px;font-family:comicsans">Mexican food gets a bad rep for being greasy, heavy and, unhealthy but stop and think for a second. It is nothing but concentrated vegetables. It’s the tastiest way ever to get your daily veggies. You can eat as much as you want guilt free. It’s rare that your favorite food can be<br>the healthiest food too so enjoy.</p><h3 style="font-size:30px;font-style:italic;color:#8C001A"class="shadow p-3 mb-5 bg-white rounded">Ingredients</h3><pre style="font-size:20px;font-family:times;"><ul style="font-size:27px"><li><b>1 1/4 lb.</b>tomatillos or green tomatoes 
+<li><b>1</b> white onion
+<li><b>4</b> serrano chiles
+<li><b>4</b> cloves garlic
+<li><b>12</b> sprigs cilantro
+<li><b>2 tbsp.</b> cooking oil
+<li><b>1 1/2 tsp.</b>salt + to taste
+</ul><h3 style="font-size:30px;font-style:italic;color:#8C001A"class="shadow p-3 mb-5 bg-white rounded">Steps to make</h3><p style="font-size:25px;color:#F7819F">><b>Step 1:</b><p style="font-size:24px;font-family:tahoma">Preparation is really simple.Add all of the ingredients<br>to your pot except the cilantro and just cover with<br>water.</p><img src="green1.jpg" class="center"><p style="font-size:25px;color:#58FAAC">><b>Step 2:</b><p style="font-size:24px;font-family:tahoma">Bring to a boil then reduce the heat to medium and<br>cook for 10 minutes. Notice how the ingredients<br>change color.This lets you know that the ingredients<br>are fully cooked.</p><img src="green2.jpg" class="center"><p style="font-size:25px;color:#01A9DB">><b>Step 3:</b><p style="font-size:24px;font-family:tahoma">For the next step,blend the ingredients with the<br>cooking water for 30 seconds to 1 minute.You want<br>the sauce to keep a little bit of texture.It shouldn’t<br>be liquified.Use the picture of the prepared sauce<br>to guide you.</p><img src="green3.jpg" class="center"><p style="font-size:25px;color:#A901DB">><b>Step 4:</b><p style="font-size:25px;font-family:tahoma">The Sauce Making Secret<p style="font-size:24px;font-family:tahoma">The next thing you are going to do is fry the sauce.<br>The is the magic step that is used in making almost all<br>cooked sauces.Do not skip this step.It gives a superior<br>result.Heat two tablespoons of oil on high<img src="green4.jpg" class="center"><p style="font-size:25px;color:#FFBF00">><b>Step 5:</b><p style="font-size:24px;font-family:tahoma">Slowly pour the blended salsa into the pan.This<br>develops a deeper richer tasting salsa.</p><img src="green5.jpg" class="center"><p style="font-size:24px;font-family:tahoma">Reduce the heat to medium-low and simmer for<br>20 minutes. Add salt to taste.Green sause is ready</p><h3 style="font-style:italic;font-size:27px"><b>Watch how to make Spicy Green Sauce</b></h3><iframe width="640" height="360" class="center" src="https://www.youtube.com/embed/p829zF1S4Ig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p style="font-size:30px;font-style:italic;color:#8C001A" class="shadow p-3 mb-5 bg-white rounded">Nutrition Facts<p style="font-family:VERDANA">Serving Size:8<p style="font-family:verdana">Calories Per Serving:199
+<table class="table table-striped table-dark"><tr>
+<th>NUTRIENTS</th>
+<th>AMOUNT</th>
+<th>PERCENTAGE</th>
+</tr>
+<tr>
+<td>Total Fat</td>
+<td>20.2g</td>
+<td>31%</td>
+</tr>
+<tr>
+<td>Cholesterol</td>
+<td>0mg</td>
+<td>0%</td>
+</tr>
+<tr>
+<td>Sodium</td>
+<td>28.2mg</td>
+<td>12%</td>
+</tr>
+<tr>
+<td>Total Carbohydrate</td>
+<td>5.4g</td>
+<td>2%</td>
+</tr>
+<tr>
+<td>Dietry Fiber</td>
+<td>2.6g</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>Sugars</td>
+<td>0.9g</td>
+<td>0.3%</td>
+</tr>
+<tr>
+<td>Vitamin A</td>
+<td>0.0000426g</td>
+<td>3%</td>
+</tr>
+<tr>
+<td>Protein</td>
+<td>2.3g</td>
+<td>5%</td>
+</tr>
+<tr>
+<td>Vitamin C</td>
+<td>17.2mg</td>
+<td>29%</td>
+</TABLE>
+</tr><div style="font-size:30px;font-style:italic;color:#8C001A"class="shadow p-3 mb-5 bg-white rounded">Instructions</div><ol style="font-size:24px;font-family:arial"><li>Remove the papery husks from the tomatillos and<br>rinse to remove the sticky residue.
+<li>Quarter the onion.
+<li>Add all of the ingredients except the cilantro and<br>salt to a large pot and just cover with water.
+<li>Bring the water and ingredients to a boil and then<br>simmer for 10 minutes.
+<li>Blend the cooked ingredients and the cilantro with<br>the cooking water until smooth.<br>(About 30 seconds)
+<li>Heat 2 tablespoons of cooking oil in the pot.
+<li>Pour the blended salsa back into the pot with the<br>hot cooking oil.
+<li>Reduce the heat and simmer for 20 minutes.
+<li>Add the salt and adjust if necessary.</ol>
+<img src="green6.jpg" class="center"></body>
+</html>

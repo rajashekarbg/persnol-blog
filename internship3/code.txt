@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+ padding:250px;
+text-align:center;
+}
+</style>
+<link rel="stylesheet" href="intern2.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</head>
+<body><h1 style="color:crimson;font-style:italic;font-family:arialblack"><b>TASTY Chicken Tinga Tacos</b></h1><img src="chicken.jpg" width="80%" class="center"><p style="font-size:25px;font-family:comicsans">Chicken tinga is a one-pot wonder of a recipe; by cooking the chicken in the sauce you amp up the flavor exponentially, not to mention make it easy on yourself when it comes time to clean up.<p style="font-size:25px;font-style:italic">Tender chicken thighs braised in a flavorful tomato-based sauce, rich and subtly smoky with a pleasant amount of heat. No salsa necessary for these tasty tacos!</p><h3 style="font-size:30px;font-style:italic;color:navy"class="shadow p-3 mb-5 bg-white rounded">Ingredients</h3><pre style="font-size:20px;font-family:times;"><ul style="font-size:27px"><li><b>2</b> tablespoons of vegetable oil<li><b>1</b> medium white onion cut into slices
+<li><b>2</b> large garlic cloves finely diced
+<li><b>3</b> cups of tomato cut into cubes
+<li><b>2</b> tablespoons of parsley chopped extra to<br> decorate
+<li><b>2</b> chipotle peppers in adobo chopped<br>(the ones that come in a can)
+<li><b>3</b> cups chicken cooked and shredded
+<li>Salt and pepper to taste.</ul><h3 style="font-size:30px;font-style:italic;color:navy"class="shadow p-3 mb-5 bg-white rounded">Steps to make</h3><p style="font-size:25px;color:#5B1550">><b>Step 1:</b><p style="font-size:24px;font-family:tahoma">Heat oil in a large frying pan over medium heat and<br>add the sliced onion. Stir-fry for 3 minutes and stir in<br>the garlic. Cook for another 2 minutes until fragrant.</p><img src="chicken2.jpg" class="center" class="rounded"><p style="font-size:25px;color:#FF00BF">><b>Step 2:</b><p style="font-size:24px;font-family:tahoma">Mix in the chopped tomato and parsley,lower the<br>heat,stir and let cook until tomatoes start releasing its<br>juices. This step will take about 6-7 minutes. If your<br>tomatoes aren’t juicy enough add a couple of<br>tablespoons of water.</p><img src="chicken3.jpg" class="center"><p style="font-size:25px;color:#00BFFF">><b>Step 3:</b><p style="font-size:24px;font-family:tahoma">Finally,add the chicken and chopped chipotle pepper.<br>Simmer for about 8 more minutes until all the flavors<br>had blended.Season with salt and pepper.If you like<br>your Chicken Tinga a little dry,let it cook a little<br>longer.
+</p><img src="chicken4.jpg" class="center"><img src="chicken5.jpg" class="center"><p style="font-size:24px;font-family:tahoma">To serve,garnish with chopped parsley.You can serve<br>Chicken Tinga as a main dish with rice and a salad or<br>as a topping or tostadas,sopes or for empanada<br>filling.If you have leftovers this dish freezes well for<br>abouta month.</p><img src="chicken6.jpg" class="center"><h3 style="font-style:italic;font-size:27px"><b>Watch how to make TASTY chicken tinga tacos<br>cookies</b></h3><iframe width="640" height="360" class="center"src="https://www.youtube.com/embed/kuhtcnkyIwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p
+style="font-size:30px;font-style:italic;color:navy"class="shadow p-3 mb-5 bg-white rounded">Nutrition Facts<p style="font-family:verdana">Serves 12<p style="font-family:verdana">Calories Per Serving:207</p> <table class="table table-striped table-dark"><tr><th>NUTRIENTS</th>
+<th>AMOUNT</th>
+<th>PERCENTAGE</th>
+</tr>
+<tr>
+<td>Total Fat</td>
+<td>8g</td>
+<td>12%</td>
+</tr>
+<tr>
+<td>Cholesterol</td>
+<td>57.9mg</td>
+<td>19%</td>
+</tr>
+<tr>
+<td>Sodium</td>
+<td>175mg</td>
+<td>7%</td>
+</tr>
+<tr>
+<td>Total Carbohydrate</td>
+<td>14.1g</td>
+<td>5%</td>
+</tr>
+<tr>
+<td>Dietry Fiber</td>
+<td>3.5g</td>
+<td>14%</td>
+</tr>
+<tr>
+<td>Sugars</td>
+<td>1.5g</td>
+<td>6%</td>
+</tr>
+<tr>
+<td>Vitamin A</td>
+<td>0.0000175g</td>
+<td>1%</td>
+</tr>
+<tr>
+<td>Protein</td>
+<td>19.4g</td>
+<td>39%</td>
+</tr>
+<tr>
+<td>Vitamin C</td>
+<td>5.4mg</td>
+<td>9%</td></tr>
+</TABLE><div style="font-size:30px;font-style:italic;color:#8C001A"class="shadow p-3 mb-5 bg-white rounded">Instructions</div><ol style="font-size:24px;font-family:arial"><li>Heat oil in a large frying pan over medium heat<br>and add the sliced onion.Stir-fry for 3 minutes and<br>stir in the garlic. Cook for another 2 minutes until<br>fragrant.
+<li>Mix in the chopped tomato and parsley, lower the<br>heat,stir and let cook until tomatoes start releasing<br>its juices.This step will take about 6-7 minutes.If<br>your tomatoes aren’t juicy enough add a couple of<br>tablespoons of water.
+<li>Finally, add the chicken and chopped chipotle<br>pepper. Simmer for about 8 more minutes until all<br>the flavors had blended.Season with salt and<br>pepper.
+<li>To serve, garnish with chopped parsley. You can<br>serve it as a main dish with rice and a salad or<br>as a topping for tostadas, sopes or for empanada<br>filling. If you have leftovers this dish freezes well<br>for about a month.<img src="chicken7.jpg" class="center"></body></html>
